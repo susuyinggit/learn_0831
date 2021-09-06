@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-test44
-=======
-test4
->>>>>>> origin/master
